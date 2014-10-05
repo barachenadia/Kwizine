@@ -1,0 +1,29 @@
+
+body{
+  margin:0;
+  padding:0;
+  background: url(backgoundflou.jpg) no-repeat fixed;
+  -webkit-background-size: cover; /* pour Chrome et Safari */
+  -moz-background-size: cover; /* pour Firefox */
+  -o-background-size: cover; /* pour Opera */
+  background-size: cover; /* version standardisée */
+}
+
+.form-signup, .form-signin {
+    width: 400px;
+    margin: 0 auto;
+}
+#inputEmail{
+    margin-bottom: 2%
+}
+#inputPassword{
+    margin-bottom: 2%
+}
+#inputFirstName{
+
+    margin-bottom: 2%
+}
+#inputLastName {
+     margin-bottom: 2%
+
+}
